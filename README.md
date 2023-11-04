@@ -3,8 +3,9 @@
 **`digital Craftsman (programmer/ photographer / Performance Manager)`**
 
 ---
-
-i'm a morrocan fulstack developer and a SE student that start Studying programming to be able building apps that serves Performance management but i end up falling in love with programming and it becomes exciting to solve real life problems and with the principle that " Simplicity is the soul of efficiency ". 
+<table>
+👨‍💻 I'm a Moroccan full-stack developer and a software engineering student. I initially ventured into programming with the goal of creating apps for performance management, 📈 but along the way, I fell head over heels in love with the art of coding. It became exhilarating to tackle real-life problems, 🌍 guided by the timeless principle that 'Simplicity is the soul of efficiency' 🌟. My coding adventure has been nothing short of an electrifying love story! 💓💻🚀
+</table>
 
 
 
