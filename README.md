@@ -1,6 +1,6 @@
 💪 I DO HARD THINGS 💪
 
-**`digital Craftsman (programmer/ photographer / Performance Manager)`**
+**`digital Craftsman (programmer/ photographer /  logistics and Performance Manager)`**
 
 <kbd>
 <table>
