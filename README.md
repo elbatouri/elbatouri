@@ -1,6 +1,6 @@
 💪 I DO HARD THINGS 💪
 
-**difital Craftsman (programmer/ photographer / Performance Manager)*
+*difital Craftsman (programmer/ photographer / Performance Manager)*
 
 i'm a morrocan fulstack developer and a SE student that start Studying programming to be able building apps that serves Performance management but i endup falling in love with programming and it becomes exciting to solve real life problems and with the principe that " Simplicity is the soul of efficiency ". 
 
