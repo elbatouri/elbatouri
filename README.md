@@ -1,10 +1,12 @@
 💪 I DO HARD THINGS 💪
 
-*difital Craftsman (programmer/ photographer / Performance Manager)*
+**`digital Craftsman (programmer/ photographer / Performance Manager)`**
 
-i'm a morrocan fulstack developer and a SE student that start Studying programming to be able building apps that serves Performance management but i endup falling in love with programming and it becomes exciting to solve real life problems and with the principe that " Simplicity is the soul of efficiency ". 
+---
 
-###
+i'm a morrocan fulstack developer and a SE student that start Studying programming to be able building apps that serves Performance management but i end up falling in love with programming and it becomes exciting to solve real life problems and with the principle that " Simplicity is the soul of efficiency ". 
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -20,7 +22,7 @@ i'm a morrocan fulstack developer and a SE student that start Studying programmi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
