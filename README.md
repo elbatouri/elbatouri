@@ -2,12 +2,24 @@
 
 **`digital Craftsman (programmer/ photographer / Performance Manager)`**
 
----
+<kbd>
 <table>
-👨‍💻 I'm a Moroccan full-stack developer and a software engineering student. I initially ventured into programming with the goal of creating apps for performance management, 📈 but along the way, I fell head over heels in love with the art of coding. It became exhilarating to tackle real-life problems, 🌍 guided by the timeless principle that 'Simplicity is the soul of efficiency' 🌟. My coding adventure has been nothing short of an electrifying love story! 💓💻🚀
+  <tr>
+    <td>👨‍💻 I'm a Moroccan full-stack developer and a software engineering student.</td>
+  </tr>
+  <tr>
+    <td>📈 I initially ventured into programming with the goal of creating apps for performance management, but along the way, I fell head over heels in love with the art of coding.</td>
+  </tr>
+  <tr>
+    <td>🌍 It became exhilarating to tackle real-life problems, guided by the timeless principle that 'Simplicity is the soul of efficiency' 🌟.</td>
+  </tr>
+  <tr>
+    <td>💓 My coding adventure has been nothing short of an electrifying love story! 💓💻🚀</td>
+  </tr>
 </table>
+</kbd>
 
-
+<tab></tab>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -22,8 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
-
----
 
 <br clear="both">
 
