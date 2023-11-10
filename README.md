@@ -8,9 +8,9 @@
     <td>👨‍💻 I'm a Moroccan full-stack developer and a software engineering student.</td>
   </tr>
   <tr>
-    <td>📈 I initially ventured into programming with the goal of creating apps for performance management, 
+    <td><pre>📈 I initially ventured into programming with the goal of creating apps for performance management, 
       but along the way, I fell head over heels in love with the art of coding.</td>
-  </tr>
+    </pre></tr>
   <tr>
     <td>🌍 It became exhilarating to tackle real-life problems, 
       guided by the timeless principle that 'Simplicity is the soul of efficiency' 🌟.</td>
