@@ -3,23 +3,23 @@
 **`digital Craftsman (programmer/ photographer /  logistics and Performance Manager)`**
 
 <kbd>
-<table>
-  <tr>
-    <td>👨‍💻 I'm a Moroccan full-stack developer and a software engineering student.</td>
-  </tr>
-  <tr>
-    <td>📈 I initially ventured into programming with the goal of creating apps for performance management, 
-      but along the way, I fell head over heels in love with the art of coding.
-          </td>
+  <table>
+    <tr>
+      <td>👨‍💻 I'm a Moroccan full-stack developer and a software engineering student.</td>
     </tr>
-  <tr>
-    <td>🌍 It became exhilarating to tackle real-life problems, 
-      guided by the timeless principle that 'Simplicity is the soul of efficiency' 🌟.</td>
-  </tr>
-  <tr>
-    <td>💓 My coding adventure has been nothing short of an electrifying love story! 💓💻🚀</td>
-  </tr>
-</table>
+    <tr>
+      <td>📈 I initially ventured into programming with the goal of creating apps for performance management, 
+        but along the way, I fell head over heels in love with the art of coding.
+            </td>
+      </tr>
+    <tr>
+      <td>🌍 It became exhilarating to tackle real-life problems, 
+        guided by the timeless principle that 'Simplicity is the soul of efficiency' 🌟.</td>
+    </tr>
+    <tr>
+      <td>💓 My coding adventure has been nothing short of an electrifying love story! 💓💻🚀</td>
+    </tr>
+  </table>
 </kbd>
 
 
