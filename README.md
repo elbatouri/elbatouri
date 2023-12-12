@@ -13,7 +13,6 @@
   </style>
 </head>
 <body>
-
 <div class="profile-container">
   <table>
     <tr>
